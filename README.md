@@ -1,16 +1,14 @@
 ## Hi there 👋
+I work as a system administrator, at the moment I am upgrading my qualification in ML-engineer direction From skills: I made a game like Mario in Python.
+- 🌍 I'm based in Khabarovsk
+- ✉️ You can contact me at sergej.noviczkij@mail.ru
+- ⚡ Initiative slacker
+ - Skills
+  - ![image](https://github.com/user-attachments/assets/0d25ad5c-94f3-4355-8bfd-2fc2cd216a50) ![image](https://github.com/user-attachments/assets/57bc2eab-ae0b-49e1-992e-d2cfa0253077) ![image](https://github.com/user-attachments/assets/90e9ef9f-06e3-4734-8a75-3554088ecb09)
 
-<!--
-**5Rubickon5/5Rubickon5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
